@@ -21,7 +21,7 @@ Attached postman collection should help find the APIs
 
 Future Plans:
 
-Adding a webhook option that would call the given API after the scanning is complete
-Adding an ssl cert check API that would return expiry and start dates along with other host specific data
-Adding a new API that would port scan a CIDR block
-Expanding beyond just open ports to guessing what OS is being used, etc on the host system
+- Adding a webhook option that would call the given API after the scanning is complete
+- Adding an ssl cert check API that would return expiry and start dates along with other host specific data
+- Adding a new API that would port scan a CIDR block
+- Expanding beyond just open ports to guessing what OS is being used, etc on the host system
