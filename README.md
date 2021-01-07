@@ -17,7 +17,7 @@ CD into the cloned directory and type docker-compose up and press enter
 
 This should build/pull the images required to run the project. Portscanner will be available on http://0.0.0.0:5000
 
-Attached postman collection should help find the APIs
+# Attached postman collection to repo which should help test the APIs
 
 Future Plans:
 
